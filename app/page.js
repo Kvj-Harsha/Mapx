@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex flex-col items-center justify-center py-10">
-        <h1 className="text-2xl font-bold mb-6 text-white">MapX</h1>
+        <h1 className="text-2xl font-bold mb-6 text-white">MapX || Kvj Harsha</h1>
         <Map />
       </main>
     </div>
