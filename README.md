@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mapx by Kvj Harsha
 
-## Getting Started
+Mapx is a powerful web application that provides accurate location-based services using modern web technologies and APIs.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **🌐 Built on Next.js 14**
+  - Harnesses the latest version of Next.js for a seamless and performant web experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **🗺️ Map Display with OpenStreetMap API**
+  - Visualize locations with detailed, interactive maps using the OpenStreetMap API.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **📍 Geolocation by Latitude and Longitude**
+  - Pinpoint any location on the map by entering specific latitude and longitude coordinates.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **🔄 Reverse Geocoding with OpenCage API**
+  - Convert geographic coordinates into readable addresses for easy location identification.
 
-## Learn More
+- **📁 CSV Read and Offline Data Loading**
+  - Load and display location data from CSV files, supporting offline functionality for added flexibility.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Frontend:** [Next.js 14](https://nextjs.org/)
+- **Mapping:** [OpenStreetMap API](https://www.openstreetmap.org/)
+- **Reverse Geocoding:** [OpenCage API](https://opencagedata.com/)
+- **Data Handling:** CSV Parsing for offline data loading
 
-## Deploy on Vercel
+## 📄 Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Enter Coordinates**: Input latitude and longitude to find your location on the map.
+2. **Reverse Geocoding**: Automatically convert coordinates to an address.
+3. **Load CSV**: Upload a CSV file to load offline location data onto the map.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Live Demo
+
+- [Mapx by Kvj Harsha](https://mapx-one.vercel.app/)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize and expand on this `README.md` as you see fit!
