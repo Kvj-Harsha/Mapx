@@ -39,6 +39,3 @@ Mapx is a powerful web application that provides accurate location-based service
 - [Mapx by Kvj Harsha](https://mapx-one.vercel.app/)
 
 
----
-
-Feel free to customize and expand on this `README.md` as you see fit!
